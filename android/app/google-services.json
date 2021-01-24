@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1045101917818",
+    "firebase_url": "https://trip-bangladesh-21bcb.firebaseio.com",
+    "project_id": "trip-bangladesh-21bcb",
+    "storage_bucket": "trip-bangladesh-21bcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045101917818:android:5455f30dd2df63c7172dc3",
+        "android_client_info": {
+          "package_name": "com.ban.tripbangledesh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045101917818-ep5h2ar71uhnubr2ts3qq8bd0gfhu1fp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ban.tripbangledesh",
+            "certificate_hash": "916a7cfbd07e4204e09a46ae1587bd50e90fe183"
+          }
+        },
+        {
+          "client_id": "1045101917818-eijv44b921g2c4oeel6gj7tr4olsg9do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYXfmCKL3vhRgP6ekq29kOPT36gm-yj7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045101917818-eijv44b921g2c4oeel6gj7tr4olsg9do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

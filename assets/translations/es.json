@@ -1,0 +1,126 @@
+{
+    
+    "welcome message" : "বাংলাদেশের সুন্দর দেশের প্রতিটি বিখ্যাত স্থানগুলি ঘুরে দেখুন এবং সবচেয়ে সহজ উপায় সহ কাছাকাছি হোটেলগুলি এবং বিশ্রামাগারগুলি সন্ধান করুন। রিয়েলটাইম দিকনির্দেশ, আনুমানিক ব্যয়, ভ্রমণের ব্লগ এবং আরও অনেক কিছু পান ..",
+    "welcome to" : "আপনাকে স্বাগতম",
+
+    "intro-title1" : "কোনো বিষয় না আপনি কোথায়  আছেন",
+    "intro-title2" : "আপনার নিকটবর্তী জায়াগাসমূহ অন্বেষন করুন",
+    "intro-title3" : "প্রকৃত সময়ের ভ্রমনগাইড",
+    "intro-description1" : "গুরত্বপূর্ন তথ্যসমূহে অভিগমন করুন যখন আপনি আপনার বাসায় আছেন অথবা ভ্রমনে আছেন ...",
+    "intro-description2" : "আপনি আপনারন নিকটবর্তী জায়াগাসমূহ সবচেয়ে সহজেই অন্বেষন করতে পারবেন ...",
+    "intro-description3" : "আপনি খুবসহজে ভ্রমন নিরদেশিকা এবং ভ্রমনের সম্ভাব্য খরচ সম্পরকে অবগত হতে পারবেন ...",
+    "get started" : "শুরু করুন",
+
+    "explore country" : "প্রকৃতি অন্বেষনকরুন",
+    "search places" : "পছন্দের জায়গা খুজুন",
+    "popular places" : "জনপ্রিয় জায়গাসমূহ",
+    "special state-1 places" : "",
+    "special state-2 places" : "",
+    "recently added" : "সাম্প্রতিক জায়গাসমূহ",
+    "recommended places" : "সুপারিশকৃত জায়গাসমূহ",
+
+    "people like this" : "জন পছন্দ করেছে",
+    "todo" : "",
+    "you may also like" : "আপনি আরও পছন্দ করবেন",
+    "travel guide" : "ভ্রমন নিরদেশিকা",
+    "nearby hotels" : "",
+    "nearby restaurants" : "",
+    "steps" : "",
+    "estimated cost = " : "বরাদ্দ খরচ = ",
+    "distance = " : "দূরত্ব = ",
+    "no hotels found" : "",
+    "no restaurants found" : "",
+    "we didn't find any nearby hotels in this area" : "",
+    "we didn't find any nearby restaurants in this area" : "",
+    "user reviews" : "ব্যবহারকারীর মতামত",
+
+
+    "write a review" : "আপনার মতামত লিখুন",
+    "no internet" : "ইন্টারনেট সংযোগ নেই",
+    "no comments found" : "কোনো মন্তব্য খুজে পাওয়া যায়নি",
+    "be the first to comment" : "সর্বপ্রথম মন্তব্য করুন",
+
+    "recently added places" : "সাম্প্রতিক যোগ করা জায়গাসমূহ",
+
+
+    "search & explore" : "অনুসন্ধান এবং অন্বেষন",
+    "recent searchs" : "সাম্প্রতিক অনুসন্ধান",
+    "search for places" : "জায়গা অনুসন্ধান",
+    "search-description" :  "আপনি এখনো কিছুই খুজেননি \n এখন চেষ্টা করুন! ",
+    "we have found" : "আমরা খুজে পেয়েছি",
+    "no places found" : "কোনো জায়গা পাওয়া যায়নি ",
+    "try again" : "আবার চেষ্টা করুন",
+
+
+
+    "states" : "বিভাগসমূহ",
+    "blogs" : "ব্লগসমূহ",
+
+
+    "bookmarks" : "বুকমার্ক",
+    "saved places" : "সংরক্ষিত জায়াগাগুলো",
+    "saved blogs" : "সংরক্ষিত ব্লগগুলো ",
+    "sign in first" : "অনুগ্রহ করে প্রথমে সাইন ইন করুন",
+    "sign in to save your favourite places here" : "জায়াগাটি সংরক্ষন করার জন্য সাইন ইন করুন",
+    "sign in to save your favourite blogs here" : "ব্লগটি সংরক্ষন করার জন্য সাইন ইন করুন ",
+    "no blogs found" : "কোনো ব্লগ খুজে পাওয়া যায়নি",
+    "save your favourite places here" : "আপনার পছন্দের জায়াগাটি এখানে সংরক্ষন করুন",
+    "save your favourite blogs here" : "আপনার পছন্দের ব্লগটি এখানে সংরক্ষন করুন",
+
+
+
+    "skip" : "লাফ দিয়ে চলে যান",
+    "check your internet connection!" : "আপনার ইন্টারনেট সংযোগটি পরীক্ষা করুন",
+    "something is wrong. please try again." : "কিছু সমস্যা হয়েছে। দয়াকরে আবার চেষ্টা করুন",
+
+
+    "sign in" : "সাইন ইন",
+    "cancel" : "বাতিল",
+    
+    "no sign in title" : "সাইন ইন করুন উপাদানটিতে প্রবেশ করতে ",
+    "no sign in subtitle" : "আপনি এখনো সাইন ইন করেননি। উপাদানটি উৎঘাটন করার জন্য দয়াকরে সাইন ইন করুন ",
+
+    
+    
+    "comments" : "মন্তব্যসমূহ",
+    "write a comment" : "মন্তব্য লিখুন",
+
+
+    
+    "no content" : "কোনো বিষয়বস্তু খুজে পাওয়া যায়নি",
+    "delete?" : "মুছে ফেলুন",
+    "delete from database?" : "তথ্যশালা থেকে মুছে ফেলুন",
+
+
+    "notifications" : "প্রজ্ঞাপনসমূহ",
+    "notification details" : "প্রজ্ঞাপন বিস্তারিত",
+
+
+    "profile" : "প্রোফাইল",
+    "general setting" : "",
+    "login" : "লগইন",
+    "get notifications" : "প্রজ্ঞাপন পাওয়া",
+    "contact us" : "আমাদের সাথে যোগাযোগ করুন",
+    "rate this app" : "অ্যাপটিকে রেটিং করুন",
+    "licence" : "অনুমতিপত্র",
+    "privacy policy" : "গোপনীয় নীতি",
+    "about us" : "আমাদের সম্পর্কে",
+    "logout" : "লগ-আউট",
+    "edit profile" : "প্রোফাইল পরিবর্তন",
+    "update profile" : "প্রোফাইল হালনাগাদ",
+    "updated successfully" : "হালনাগাদ করা হয়েছে",
+    "enter new name" : "আপনার নামটি লিখুন!",
+
+    "logout title" : "আপনি কি লগআউট করতে চান?",
+    "yes" : "হ্যা",
+    "no" : "না",
+
+    "language" : "ভাষা",
+    "select language" : "ভাষা নির্ধারন করুন",
+
+    "buy now" : "অ্যাপটি ক্রয় করুন",
+    "buy now subtitle" : ""
+
+
+
+}
